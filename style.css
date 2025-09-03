@@ -13,6 +13,22 @@ header {
   text-align: center;
 }
 
+.corner-logo {
+position:absolute;
+top:10px;
+left:10px;
+width:100px;
+height:auto;
+}
+
+.corner-logo1 {
+position:absolute;
+top:10px;
+right:10px;
+width:135px;
+height:auto;
+}
+
 nav a {
   color: white;
   margin: 0 15px;
@@ -53,3 +69,4 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
