@@ -28,6 +28,7 @@ top:10px;
 right:10px;
 width:135px;
 height:auto;
+border: 2px solid white;
 }
 
 .corner-logo:hover,
@@ -78,6 +79,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
 
 
