@@ -19,6 +19,7 @@ top:10px;
 left:10px;
 width:100px;
 height:auto;
+  border: 2px solid white;
 }
 
 .corner-logo1 {
@@ -27,7 +28,16 @@ top:10px;
 right:10px;
 width:135px;
 height:auto;
+  border: 2px solid white;
 }
+.corner-logo:hover,
+.corner-logo1:hover{
+transform:scale(1.1);
+box-shadow:0 0 15px rgba(255,215,0,0.9);
+transition:transform 0.3s ease, box-shadow 0.3s ease;
+cursor:pointer;
+}
+
 
 nav a {
   color: white;
@@ -69,6 +79,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
 
 
