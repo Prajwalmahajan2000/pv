@@ -19,7 +19,6 @@ top:10px;
 left:10px;
 width:100px;
 height:auto;
-border: 2px solid white;
 }
 
 .corner-logo1 {
@@ -79,6 +78,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
 
 
