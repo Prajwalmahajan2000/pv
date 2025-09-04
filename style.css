@@ -55,6 +55,18 @@ section {
   text-align: center;
 }
 
+.zoom{
+  display: inline-block;   
+  text-decoration: underline;
+  transition: transform 0.3s ease; 
+  cursor: pointer;      
+}
+
+.zoom:hover {
+  transform: scale(1.1);  
+  text-shadow: 0 0 8px rgba(255, 215, 0, 0.9);
+}
+
 table {
   margin: auto;
   border-collapse: collapse;
@@ -79,6 +91,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
 
 
