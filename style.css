@@ -67,6 +67,10 @@ section {
   text-shadow: 0 0 8px rgba(255, 215, 0, 0.9);
 }
 
+section.rates-table {
+  padding-bottom: 75px;  
+}
+
 table {
   margin: auto;
   border-collapse: collapse;
@@ -91,6 +95,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
 
 
