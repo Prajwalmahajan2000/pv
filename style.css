@@ -17,6 +17,7 @@ header {
 .corner-logo {
 position:absolute;
 top:50%;
+transform: translateY(-50%);
 left:10px;
 width:100px;
 height:auto;
@@ -96,6 +97,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
 
 
