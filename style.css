@@ -16,8 +16,8 @@ header {
 
 .corner-logo {
 position:absolute;
-top:50%;
 
+transform: translateY(-50%);
 left:10px;
 width:100px;
 height:auto;
@@ -26,7 +26,7 @@ border: 2px solid white;
 
 .corner-logo1 {
 position:absolute;
-top:50%;
+
 transform: translateY(-50%);
 right:10px;
 width:100px;
