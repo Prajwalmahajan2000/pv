@@ -57,6 +57,11 @@ section {
   text-align: center;
 }
 
+section:hover{
+  transform: scale(1.1);  
+  text-shadow: 0 0 8px rgba(255, 215, 0, 0.9);
+}
+
 .zoom{
   display: inline-block;   
   text-decoration: underline;
@@ -97,6 +102,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
 
 
