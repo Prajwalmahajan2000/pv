@@ -26,7 +26,8 @@ border: 2px solid white;
 
 .corner-logo1 {
 position:absolute;
-top:10px;
+top:50%;
+transform: translateY(-50%);
 right:10px;
 width:100px;
 height:auto;
@@ -97,6 +98,7 @@ footer {
   bottom: 0;
   width: 100%;
 }
+
 
 
 
